@@ -1,1 +1,1 @@
-# thoughtdump.github.com
+# thoughtdump.github.io
